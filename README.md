@@ -1,2 +1,3 @@
-# textjoint
-Text joint public
+# Textjoint
+
+Welcome to Textjoint community.
