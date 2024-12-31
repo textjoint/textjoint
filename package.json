@@ -1,0 +1,24 @@
+{
+  "name": "textjoint",
+  "version": "1.0.0",
+  "description": "Public documentation and issues repo for all things Textjoint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/textjoint/textjoint.git"
+  },
+  "keywords": [
+    "textjoin",
+    "tj",
+    "read"
+  ],
+  "author": "jurijs@textjoint.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/textjoint/textjoint/issues"
+  },
+  "homepage": "https://github.com/textjoint/textjoint#readme"
+}
